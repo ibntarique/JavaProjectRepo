@@ -12,14 +12,9 @@ public class class1 {
 		
 		System.out.println("------Added a new line--------");
 
-		System.out.println("Added a new line");
+		System.out.println("------Added a new line--------");
 		
-		System.out.println("This is i value : ");
-		for (int i = 0; i < args.length; i++) {
-			
-			System.out.println("This is i : "+i);
-			
-		}
+
 
 
 	}
