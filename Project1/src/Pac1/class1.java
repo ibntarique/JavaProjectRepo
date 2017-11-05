@@ -9,6 +9,8 @@ public class class1 {
 		System.out.println("TODO Auto-generated method stub");
 		
 		System.out.println("Added a new line");
+		
+		System.out.println("Added a next new line");
 
 	}
 
