@@ -10,7 +10,7 @@ public class class1 {
 		
 		System.out.println("Added a new line");
 		
-		System.out.println("Added a next new line");
+		System.out.println("Added a next new line in my project");
 
 	}
 
